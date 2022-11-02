@@ -1,0 +1,31 @@
+section{
+    height:25px;
+    width:500px;
+    gap:20px;
+    border:2px solid black;
+    display:flex;
+    flex-direction:row;
+    padding:10px;
+    flex-wrap:wrap
+    
+
+}
+div{
+    height:20px;
+    width:50px;
+    border:2px solid black;
+    display:inline-block;
+ 
+    
+
+}
+.contact{
+    flex-grow:2;
+}
+.about{
+    flex-grow:2;
+}
+h1{
+
+text-shadow:10px 15px 2px red;
+}
